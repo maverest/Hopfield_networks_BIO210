@@ -5,9 +5,6 @@
 
 **Team 13**
 
-:triangular_flag_on_post: **Warning** :triangular_flag_on_post:
-***The final release of this project has been made on the "sanspoo" branch***
-
 A Hopfield network is a form of recurrent artificial neural network that can be viewed as a computational model for associative memory. It was proposed by John Hopfield in 1982. The model consist in a process that shows how a network can store the entity it wants to _remember_ using weighted connections between neurons, those weights either deriving from the Hebbian or the Storkey learning rule.
 
 
